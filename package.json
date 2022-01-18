@@ -1,0 +1,18 @@
+{
+  "name": "node-tests",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js",
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "ˆ27.4.7",
+    "supertest": "ˆ6.2.1"
+  },
+  "dependencies": {
+    "express": "ˆ4.17.2"
+  }
+
+}
